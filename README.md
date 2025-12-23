@@ -153,7 +153,6 @@ stock-profit-kadane/
 <ul>
   <li>C++ with OpenMP</li>
   <li>Python with yfinance</li>
-  <li>Git and GitHub</li>
 </ul>
 
 <hr>
